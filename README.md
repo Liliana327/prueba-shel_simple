@@ -7,6 +7,7 @@ This repository stores the code of a Simple Shell.
 
 ## Files
 ---
+```python
 | File | Description |
 | ---- | ------- |
 | _printf.c | first inlet of arguments evaluation  |
