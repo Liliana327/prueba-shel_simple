@@ -10,23 +10,23 @@ Here you will find the function that makes similar proccesses of a command inter
 ---
 | File | Description |
 | ---- | ------- |
-| _strcat.c | |
+| _strcat.c |strcat adds the src string to the dest string, overwriting the null termination byte ('\ 0') at the end of dest |
 | _strcmp.c | compare character by character, if the strings are equal, a value of 0 will return, if the first string is larger, a positive value will return and if it is smaller, a negative value will return |
 | _strcpy.c |Copy the source pointed string (including the null character) to the dest pointed string |
 | _strlen.c |Returns the length (number of letters stored) in a text string, not counting the final null character |
-| check_path.c | |
-| get_env.c | |
-| getline_tty.c | |
-| print_env.c | |
-| min_shell_v1.c | |
+| check_path.c |Function that checks and execute PATH |
+| get_env.c |Function that tokenizes the env variable |
+| getline_tty.c |Function that read a line and checks teletypes |
+| print_env.c |Function that print the env variables |
+| min_shell_v1.c |Chorizo |
 | holberton.h | header file that contains prototypes functions |
 | _putchar.c  | function that improves output from a system call to wirte data out of buffer |
 
 ## Compilation 
-First compile all project with a main program that allows you to invoke principal function _printf.c
+Your shell will be compiled this way:
 
 ```sh 
-$gcc -Wall -Wextra -Werror -pedantic  *.c holberton.h -o <nameofexecutablefile>
+$gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 ```
 Besides that execute it for seein the output at shell
 
