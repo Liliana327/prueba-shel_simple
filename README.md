@@ -20,6 +20,7 @@ Here you will find the function that makes similar proccesses of a command inter
 | get_env.c |Function that tokenizes the env variable |
 | getline_tty.c |Function that read a line and checks teletypes |
 | print_env.c |Function that print the env variables |
+| check_negative_child.c |free buffer and print error |
 | min_shell_v1.c |Chorizo |
 | holberton.h | header file that contains prototypes functions |
 | _putchar.c  | function that improves output from a system call to wirte data out of buffer |
