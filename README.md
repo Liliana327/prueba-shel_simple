@@ -14,6 +14,11 @@ Here you will find the function that makes similar proccesses of a command inter
 | _strcmp.c | compare character by character, if the strings are equal, a value of 0 will return, if the first string is larger, a positive value will return and if it is smaller, a negative value will return |
 | _strcpy.c |Copy the source pointed string (including the null character) to the dest pointed string |
 | _strlen.c |Returns the length (number of letters stored) in a text string, not counting the final null character |
+| check_path.c | |
+| get_env.c | |
+| getline_tty.c | |
+| print_env.c | |
+| min_shell_v1.c | |
 | holberton.h | header file that contains prototypes functions |
 | _putchar.c  | function that improves output from a system call to wirte data out of buffer |
 
