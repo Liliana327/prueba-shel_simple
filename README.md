@@ -10,10 +10,10 @@ Here you will find the function that makes similar proccesses of a command inter
 ---
 | File | Description |
 | ---- | ------- |
-| _printf.c | first inlet of arguments evaluation  |
-| _case_c | function that evaluates which format its going to be used |
-| _cases_num.c , _cases_lis.c | Auxiliar functions for integers and string formats |
-| conversion.c | Function that allows conversion from unsigned int to bin, oct, dec and hex base|
+| _strcat.c | |
+| _strcmp.c | compare character by character, if the strings are equal, a value of 0 will return, if the first string is larger, a positive value will return and if it is smaller, a negative value will return |
+| _strcpy.c |Copy the source pointed string (including the null character) to the dest pointed string |
+| _strlen.c |Returns the length (number of letters stored) in a text string, not counting the final null character |
 | holberton.h | header file that contains prototypes functions |
 | _putchar.c  | function that improves output from a system call to wirte data out of buffer |
 
