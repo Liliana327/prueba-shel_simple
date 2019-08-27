@@ -1,6 +1,8 @@
 # Simple_Shell.
+---
 
 [![N|Solid](https://camo.githubusercontent.com/04a8a9a456b8ecafad2eb4f2cff6803cd0194496/687474703a2f2f7777772e686f6c626572746f6e7363686f6f6c2e636f6d2f686f6c626572746f6e2d6c6f676f2e706e67)](https://www.holbertonschool.com/co)
+---
 
 Here you will find the function that makes similar proccesses of a command interpreter. This repository stores the code of a Simple Shell.
 
@@ -23,7 +25,7 @@ Here you will find the function that makes similar proccesses of a command inter
 | _putchar.c  | function that improves output from a system call to wirte data out of buffer |
 
 ## Compilation 
-Your shell will be compiled this way:
+Your shell will be compiled this way _:
 
 ```sh 
 $gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
@@ -34,23 +36,11 @@ Besides that execute it for seein the output at shell
 $./"nameofexecutable"
 ```
 ## Example
+holaholahola
 
-Dillinger uses a number of open source projects to work properly:
+## Authors
+---
 
-* [AngularJS] - HTML enhanced for web apps!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Liliana Ospina] (894@holbertonschool.com)
+[Kevin Espinosa] (894@holbertonschool.com)
 
