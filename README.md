@@ -41,6 +41,6 @@ holaholahola
 ## Authors
 ---
 
-[Liliana Ospina] (894@holbertonschool.com)
-[Kevin Espinosa] (894@holbertonschool.com)
+[Liliana Ospina](https://github.com/Liliana327)
+[Kevin Espinosa](https://github.com/Liliana327)
 
